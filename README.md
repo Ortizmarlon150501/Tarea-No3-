@@ -171,6 +171,57 @@ a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes descono
  b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otros resistores.
  
  ![image](https://user-images.githubusercontent.com/84587118/122506564-31bde400-cfc4-11eb-82d6-2490b9dd65d1.png)
+ c. ¿Cuánta corriente debe aplicarse a toda la red?
+La corriente a aplicarse es la misma que sale, por lo tanto, serian 
+
+![image](https://user-images.githubusercontent.com/84587118/122506732-87928c00-cfc4-11eb-8318-5c97c7b9dd59.png)
+
+17. Vea la red de la figura 6-60: 
+
+![image](https://user-images.githubusercontent.com/84587118/122506753-8feac700-cfc4-11eb-97de-a8d54cabc6df.png)
+
+a. Encuentre los voltajes a través de R1 y R2. 
+
+![image](https://user-images.githubusercontent.com/84587118/122506784-9c6f1f80-cfc4-11eb-9be8-94b5939f5ef0.png)
+
+
+Siendo que en un circuito en paralelo el voltaje es constante V es el mismo para R1 Y R2
+b. Determine la corriente I2.
+
+![image](https://user-images.githubusercontent.com/84587118/122506812-a8f37800-cfc4-11eb-81ad-a6b60248dad2.png)
+
+
+19. Determine la resistencia total de cada red de la figura 6-62
+
+![image](https://user-images.githubusercontent.com/84587118/122506827-b0b31c80-cfc4-11eb-8512-a7cfb60c342b.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/122506846-b872c100-cfc4-11eb-84c5-7ea42d1e6832.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122506860-c1639280-cfc4-11eb-8e3d-cd6b550a4378.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/122506863-c7597380-cfc4-11eb-9401-f6eb8ee76b78.png)
+
+
+21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican
+
+![image](https://user-images.githubusercontent.com/84587118/122506878-d04a4500-cfc4-11eb-81b3-48dbfd41ac9f.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122506912-e1935180-cfc4-11eb-92d6-a2c99e2b2254.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/122506932-e821c900-cfc4-11eb-9f2d-0c8fa983af7d.png)
+
+
+23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la figura 6-66
+
+![image](https://user-images.githubusercontent.com/84587118/122506948-f1129a80-cfc4-11eb-8d49-22743cba5f7b.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/122506970-f839a880-cfc4-11eb-9489-a705f5dde1a8.png)
+
+
 
 
 
