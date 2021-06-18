@@ -362,6 +362,7 @@ red de la figura 6-68.
 
 ![image](https://user-images.githubusercontent.com/84585835/122574041-dbc55c80-d014-11eb-8973-49e4f548ced1.png)
 
+![image](https://user-images.githubusercontent.com/84585835/122580206-54c7b280-d01b-11eb-89c6-44626bd6b15c.png)
 
 27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en la carga y en cada batería.
 
