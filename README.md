@@ -368,6 +368,8 @@ red de la figura 6-68.
 
 ![image](https://user-images.githubusercontent.com/84585835/122574095-e8e24b80-d014-11eb-9f92-e0830609f950.png)
 
+![image](https://user-images.githubusercontent.com/84585835/122584915-8727de80-d020-11eb-89e6-3c36dd991758.png)
+
 29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71.
 
 ![image](https://user-images.githubusercontent.com/84585835/122574188-044d5680-d015-11eb-9d91-2dabbfabe8af.png)
