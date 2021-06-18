@@ -12,7 +12,8 @@
 
 # Capitulo 6
 
-![Uploading Untitled Workspace (5).png…]()
+![image](https://user-images.githubusercontent.com/84587118/122507133-49499c80-cfc5-11eb-885c-0f854faca7a2.png)
+
 
 
 
