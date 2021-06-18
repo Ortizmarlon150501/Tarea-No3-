@@ -552,6 +552,7 @@ https://youtu.be/TcKoUCH9iCI
 
 •	En los circuitos paralelos el voltaje se mantiene contaste en cambio la intensidad se divide y esto le diferencia de los circuitos en serie porque en cambio con estos circuitos pasa que el voltaje se divide y la intensidad se divide.
 
+•	Dentro de la resolución existen vario caminos para resolver circuitos y ninguno es más fácil si debemos entender que cada uno tienes un funcionalidad y esto dependiendo el circuito,debemos identificar cual es el mas optimo dependiendo del circuito que nos planten.
 
 # Bibliografia
 Robbins, Allan H. Willhelm c. Miller. n.d. Analisis de Circuitos Teoria y Practica. Edited by CENGAGE Learning. Cuarta Edi. https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view.
