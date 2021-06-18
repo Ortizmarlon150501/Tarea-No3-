@@ -10,6 +10,12 @@
 
 # Marco Teorico
 
+# Capitulo 6
+
+![Uploading Untitled Workspace (5).png…]()
+
+
+
 # Explicacion y resolucion de ejercicios
 
 Resistencia interna de fuentes de voltaje
