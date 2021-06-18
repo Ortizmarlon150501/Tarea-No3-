@@ -10,14 +10,173 @@
 
 # Marco Teorico
 
-# Capitulo 6
-
-![image](https://user-images.githubusercontent.com/84587118/122507133-49499c80-cfc5-11eb-885c-0f854faca7a2.png)
-
-
+![image](https://user-images.githubusercontent.com/84412132/122506702-76e21600-cfc4-11eb-84c3-0ff72922fe34.png)
 
 
 # Explicacion y resolucion de ejercicios
+5-1 Circuitos en serie
+1.	Los voltímetros de la figura 5-44 tienen autopolaridad. Determine la lectura de cada medidor, con la magnitud y el signo correctos.
+
+![image](https://user-images.githubusercontent.com/84412132/122511220-82393f80-cfcc-11eb-853a-1f5358e147f8.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122511253-911ff200-cfcc-11eb-9404-017e8fde9550.png)
+
+5-2 Ley de voltaje de Kirchhoff
+5.	Determine los voltajes desconocidos en las redes de la figura 5-48.
+
+![image](https://user-images.githubusercontent.com/84412132/122511338-b0b71a80-cfcc-11eb-9002-71a4ccdfabda.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122511419-d3e1ca00-cfcc-11eb-85f1-cb32623e2028.png)
+
+7.	Resuelva para hallar los voltajes desconocidos en el circuito de la figura 5-50.
+
+![image](https://user-images.githubusercontent.com/84412132/122511480-ed831180-cfcc-11eb-8deb-8da3f8662996.png)
+
+5-3 Resistores en serie
+9.	Determine la resistencia total de las redes que se muestran en la figura 5-52.
+
+![image](https://user-images.githubusercontent.com/84412132/122511594-1a372900-cfcd-11eb-821f-a5565324b7b9.png)
+
+11.	Para cada uno de los circuitos de la figura 5-54, determine la resistencia total, RT, y la corriente I.
+
+![image](https://user-images.githubusercontent.com/84412132/122511647-2f13bc80-cfcd-11eb-9d17-8b482f78a26e.png)
+
+13.	Para el circuito de la figura 5-56 encuentre las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/84412132/122511714-4b175e00-cfcd-11eb-8e3c-1d5aee49f0fb.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122511764-62564b80-cfcd-11eb-8224-1f7e501c413e.png)
+
+15.	Para el circuito de la figura 5-58, encuentre las siguientes cantidades:
+
+![image](https://user-images.githubusercontent.com/84412132/122511835-7ef28380-cfcd-11eb-891b-4223466c1c29.png)
+
+
+17. Repita el problema 16 para el circuito de la figura 5-60.
+
+
+![image](https://user-images.githubusercontent.com/84412132/122508025-e78a3200-cfc6-11eb-8eba-aeaa3a4ac62d.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122508129-0e486880-cfc7-11eb-8ff2-8c7d07645ef7.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122508194-3041eb00-cfc7-11eb-81c7-cfe59c39a8fd.png)
+
+
+
+19. Repita el problema 18 para el circuito de la figura 5-62.
+
+![image](https://user-images.githubusercontent.com/84412132/122508313-68492e00-cfc7-11eb-8bb6-668e054aa4bf.png)
+
+a. Encuentre RT.
+b. Resuelva para hallar la corriente, I.
+c. Determine la caída de voltaje en cada resistor.
+d. Verifique la Ley de voltaje de Kirchhoff alrededor del lazo cerrado.
+e. Encuentre la potencia disipada por cada resistor.
+f. Determine la potencia mínima especificada para cada resistor, si están disponibles
+con las siguientes especificaciones de potencia: 1⁄8 W, 1⁄4 W, 1⁄2 W,
+1 W y 2 W.
+g. Muestre que la potencia suministrada por la fuente de voltaje es igual a la
+suma de las potencias disipadas por los resistores.
+
+![image](https://user-images.githubusercontent.com/84412132/122508439-9fb7da80-cfc7-11eb-9208-928882cd8405.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122508635-e4437600-cfc7-11eb-9ffa-b2fdadda37e3.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122508807-3389a680-cfc8-11eb-9e52-55250d4a9482.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122508835-413f2c00-cfc8-11eb-9052-84848e23c70c.png)
+
+
+21. Vuelva a dibujar los circuitos de la figura 5-64 para mostrar una sola fuente de
+voltaje para cada circuito. Encuentre la corriente para cada circuito.
+
+![image](https://user-images.githubusercontent.com/84412132/122508897-5ae07380-cfc8-11eb-995a-cd6b10aaaf31.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122508917-66cc3580-cfc8-11eb-98df-77b66a6ea8d4.png)
+
+Regla del divisor de voltaje
+23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de
+voltaje de Kirchhoff para cada circuito.
+
+![image](https://user-images.githubusercontent.com/84412132/122508956-806d7d00-cfc8-11eb-82f2-5f7d7157cb7d.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122509037-aa26a400-cfc8-11eb-8799-02085b6682da.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122509141-e5c16e00-cfc8-11eb-95e6-7e9bc3f41ff1.png)
+
+25. Vea los circuitos de la figura 5-68:
+a. Encuentre los valores de los resistores desconocidos.
+b. Calcule el voltaje en cada resistor.
+c. Determine la potencia disipada por cada resistor.
+
+![image](https://user-images.githubusercontent.com/84412132/122509481-7ac46700-cfc9-11eb-90fd-3355a4fc3811.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122509628-b828f480-cfc9-11eb-9e8e-463c442656d9.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122509978-6339ae00-cfca-11eb-8d02-11721031acaf.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122510364-13a7b200-cfcb-11eb-81f4-d0221d082c26.png)
+
+27. Una serie de focos se conecta a una fuente de 120 V como se muestra en la figura 5-70.
+a. Determine la corriente en el circuito.
+b. Utilice la regla del divisor de voltaje para encontrar el voltaje en cada
+foco.
+c. Calcule la potencia disipada por cada foco.
+d. Si un solo foco llegara a estar en circuito abierto, la serie entera dejaría de
+funcionar. Para prevenir que ello ocurra, cada foco tiene una pequeña cinta
+de metal que pone en corto al foco cuando el filamento falla. Repita los
+pasos (a) a (c), si dos focos de la serie se quemaran.
+e. Basado en sus cálculos del paso (d), que cree que pasaría con la esperanza
+de vida del resto de los focos, si los dos que fallan no fueran reemplazados?
+
+
+![image](https://user-images.githubusercontent.com/84412132/122510440-389c2500-cfcb-11eb-8779-e963d384d207.png)
+
+![image](https://user-images.githubusercontent.com/84412132/122510488-4c478b80-cfcb-11eb-82a8-1ef0251e29c7.png)
+
+5-8 Notación de subíndices de voltaje
+29. Resuelva para hallar los voltajes Vab y Vbc en los circuitos de la figura 5-68.
+
+![image](https://user-images.githubusercontent.com/84412132/122510611-7ef18400-cfcb-11eb-8934-a1526af7de0d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regla del divisor de voltaje
+23. Utilice la regla del divisor de voltaje para determinar el voltaje en cada resistor en los circuitos de la figura 5-66. Use sus resultados para verificar la ley de
+voltaje de Kirchhoff para cada circuito.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Resistencia interna de fuentes de voltaje
 33. Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de
@@ -29,7 +188,6 @@ a.	Determine la resistencia interna de la batería.
 
 
 5-10 Efectos de carga del amperímetro
-
 35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito.
 Si un amperímetro que tiene una resistencia interna de 50 ohms se usa para
 medir la corriente en los circuitos, determine la corriente a través de él y calcule
@@ -174,62 +332,6 @@ a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes descono
  a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200 Ω.
  
  ![image](https://user-images.githubusercontent.com/84587118/122506132-49e13380-cfc3-11eb-8c75-71d3426ea63f.png)
- 
- b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otros resistores.
- 
- ![image](https://user-images.githubusercontent.com/84587118/122506564-31bde400-cfc4-11eb-82d6-2490b9dd65d1.png)
- c. ¿Cuánta corriente debe aplicarse a toda la red?
-La corriente a aplicarse es la misma que sale, por lo tanto, serian 
-
-![image](https://user-images.githubusercontent.com/84587118/122506732-87928c00-cfc4-11eb-8318-5c97c7b9dd59.png)
-
-17. Vea la red de la figura 6-60: 
-
-![image](https://user-images.githubusercontent.com/84587118/122506753-8feac700-cfc4-11eb-97de-a8d54cabc6df.png)
-
-a. Encuentre los voltajes a través de R1 y R2. 
-
-![image](https://user-images.githubusercontent.com/84587118/122506784-9c6f1f80-cfc4-11eb-9be8-94b5939f5ef0.png)
-
-
-Siendo que en un circuito en paralelo el voltaje es constante V es el mismo para R1 Y R2
-b. Determine la corriente I2.
-
-![image](https://user-images.githubusercontent.com/84587118/122506812-a8f37800-cfc4-11eb-81ad-a6b60248dad2.png)
-
-
-19. Determine la resistencia total de cada red de la figura 6-62
-
-![image](https://user-images.githubusercontent.com/84587118/122506827-b0b31c80-cfc4-11eb-8512-a7cfb60c342b.png)
-
-
-![image](https://user-images.githubusercontent.com/84587118/122506846-b872c100-cfc4-11eb-84c5-7ea42d1e6832.png)
-
-![image](https://user-images.githubusercontent.com/84587118/122506860-c1639280-cfc4-11eb-8e3d-cd6b550a4378.png)
-
-
-![image](https://user-images.githubusercontent.com/84587118/122506863-c7597380-cfc4-11eb-9401-f6eb8ee76b78.png)
-
-
-21. Determine los valores de los resistores en el circuito de la figura 6-64, de acuerdo con las condiciones que se indican
-
-![image](https://user-images.githubusercontent.com/84587118/122506878-d04a4500-cfc4-11eb-81b3-48dbfd41ac9f.png)
-
-![image](https://user-images.githubusercontent.com/84587118/122506912-e1935180-cfc4-11eb-92d6-a2c99e2b2254.png)
-
-
-![image](https://user-images.githubusercontent.com/84587118/122506932-e821c900-cfc4-11eb-9f2d-0c8fa983af7d.png)
-
-
-23. Sin usar lápiz, papel o calculadora determine la resistencia de cada red en la figura 6-66
-
-![image](https://user-images.githubusercontent.com/84587118/122506948-f1129a80-cfc4-11eb-8d49-22743cba5f7b.png)
-
-
-![image](https://user-images.githubusercontent.com/84587118/122506970-f839a880-cfc4-11eb-9489-a705f5dde1a8.png)
-
-
-
 
 
 # Videos
