@@ -22,6 +22,7 @@ a.	Determine la resistencia interna de la batería.
 
 
 5-10 Efectos de carga del amperímetro
+
 35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito.
 Si un amperímetro que tiene una resistencia interna de 50 ohms se usa para
 medir la corriente en los circuitos, determine la corriente a través de él y calcule
@@ -166,6 +167,11 @@ a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes descono
  a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200 Ω.
  
  ![image](https://user-images.githubusercontent.com/84587118/122506132-49e13380-cfc3-11eb-8c75-71d3426ea63f.png)
+ 
+ b. Si R3 tiene una corriente de 2 A, determine la corriente a través de los otros resistores.
+ 
+ ![image](https://user-images.githubusercontent.com/84587118/122506564-31bde400-cfc4-11eb-82d6-2490b9dd65d1.png)
+
 
 
 # Videos
