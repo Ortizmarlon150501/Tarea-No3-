@@ -6,7 +6,13 @@
 
 # Objetivo General:
 
+•	Analizar la teoría de ley ohm y tenerla en cuenta cuando se realicen los caculos de circuitos en paralelo y serie.
+
 # Objetivos Especificos: 
+
+•	Entender que es lo que pasa en los circuitos paralelos y en serie, tomando en cuenta las relaciones que se dan con el voltaje, intensidad y la resistencia.
+
+•	Aprender a resolver ejercicios de circuitos los cuales se necesita comer sobre ley de ohm, la relaciones que se dan con el voltaje, intensidad y la resistencia en los circuitos paralelos y en serie.
 
 # Marco Teorico
 # Capitulo 5
@@ -544,6 +550,7 @@ https://youtu.be/TcKoUCH9iCI
 
 # Conclusiones
 
+•	En los circuitos paralelos el voltaje se mantiene contaste en cambio la intensidad se divide y esto le diferencia de los circuitos en serie porque en cambio con estos circuitos pasa que el voltaje se divide y la intensidad se divide.
 
 
 # Bibliografia
