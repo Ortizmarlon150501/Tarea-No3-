@@ -12,14 +12,14 @@
 
 # Explicacion y resolucion de ejercicios
 
+Resistencia interna de fuentes de voltaje
 33. Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de
 14.2 V. Cuando se conecta a una carga de 100 ohms, el voltaje medido entre las
 terminales de la batería cae a 6.8 V.
 a.	Determine la resistencia interna de la batería.
-![image](https://user-images.githubusercontent.com/84587118/122504891-d50cfa00-cfc0-11eb-97b4-fbe2b3e19ba6.png)
-b. Si la carga de 100 ohms fuera reemplazada con una de 200 ohms_, .que voltaje se
-mediría en las terminales de la batería?
-![image](https://user-images.githubusercontent.com/84587118/122504927-e9e98d80-cfc0-11eb-8142-2fc4d2662f8b.png)
+ 
+![image](https://user-images.githubusercontent.com/84587118/122505790-ab54d280-cfc2-11eb-9839-5c3f065acd02.png)
+
 
 5-10 Efectos de carga del amperímetro
 35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito.
