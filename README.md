@@ -333,6 +333,37 @@ a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes descono
  
  ![image](https://user-images.githubusercontent.com/84587118/122506132-49e13380-cfc3-11eb-8c75-71d3426ea63f.png)
 
+27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en la carga y en cada batería.
+
+29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71.
+
+31. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.
+
+33. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71.
+
+35. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.
+
+37. Utilice la regla del divisor de corriente para determinar todas las corrientes desconocidas en las redes de la figura 6-73.
+
+39. Vea el circuito de la figura 6-77: a. Determine la resistencia equivalente RT, del circuito. b. Encuentre la corriente I. c. Use la regla del divisor de corriente para determinar la corriente en cada resistor. d. Verifique la ley de corriente de Kirchhoff en el nodo a.
+
+41. Vea el circuito de la figura 6-77: a. Determine la resistencia equivalente RT, del circuito. b. Encuentre la corriente I. c. Use la regla del divisor de corriente para determinar la corriente en cada resistor. d. Verifique la ley de corriente de Kirchhoff en el nodo a.
+
+43. Vea el circuito de la figura 6-81: a. Calcule la corriente a través de cada resistor en el circuito. b. Determine la corriente total suministrada por la fuente de voltaje. c. Encuentre la potencia disipada por cada resistor.
+
+45. En el circuito de la figura 6-83: a. Determine los valores de todos los resistores. b. Calcule las corrientes a través de R1, R2 y R4. c. Encuentre las corrientes I1 e I2. d. Encuentre la potencia disipada por los resistores R2, R3 y R4.
+
+47. Para el circuito de la figura 6-85 determine cada una de las corrientes indicadas. Si el circuito tiene un fusible de 15 A, como se muestra, ¿la corriente es suficiente para hacer que el fusible se abra?
+
+49. Un voltímetro con una resistencia interna de 1 M se usa para medir el voltaje que se indica en el circuito de la figura 6-86. a. Determine la lectura de voltaje que indicará el medidor. b. Calcule el efecto de carga del voltímetro cuando se usa para medir el voltaje indicado.
+
+51. Un voltímetro analógico barato se usa para medir el voltaje en las terminales a y b en el circuito de la figura 6-87. Si el voltímetro indica que el voltaje Vab 1.2 V, ¿cuál es el voltaje real de la fuente si la resistencia del medidor es de 50 k?
+
+
+53. Utilice Multisim para encontrar la corriente a través de cada resistor en el circuito de la figura 6-79.
+
+55. Utilice Multisim para simular un voltímetro con una resistencia interna de 1 M , como se muestra en la figura 6-86.
+
 
 # Videos
 
