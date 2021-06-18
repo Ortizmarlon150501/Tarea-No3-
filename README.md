@@ -333,6 +333,20 @@ a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes descono
  
  ![image](https://user-images.githubusercontent.com/84587118/122506132-49e13380-cfc3-11eb-8c75-71d3426ea63f.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 27. Dos baterías de 20 V se conectan en paralelo para suministrar corriente a una carga de 100 V, como se muestra en la figura 6-69. Determine la corriente en la carga y en cada batería.
 
 29. Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-71.
