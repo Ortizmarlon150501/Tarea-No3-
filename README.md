@@ -12,6 +12,131 @@
 
 # Explicacion y resolucion de ejercicios
 
+33. Se mide el voltaje en una batería que tiene un voltaje de terminales abiertas de
+14.2 V. Cuando se conecta a una carga de 100 ohms, el voltaje medido entre las
+terminales de la batería cae a 6.8 V.
+a.	Determine la resistencia interna de la batería.
+![image](https://user-images.githubusercontent.com/84587118/122504891-d50cfa00-cfc0-11eb-97b4-fbe2b3e19ba6.png)
+b. Si la carga de 100 ohms fuera reemplazada con una de 200 ohms_, .que voltaje se
+mediría en las terminales de la batería?
+![image](https://user-images.githubusercontent.com/84587118/122504927-e9e98d80-cfc0-11eb-8142-2fc4d2662f8b.png)
+
+5-10 Efectos de carga del amperímetro
+35. Para los circuitos en serie de la figura 5-74, determine la corriente en cada circuito.
+Si un amperímetro que tiene una resistencia interna de 50 ohms se usa para
+medir la corriente en los circuitos, determine la corriente a través de él y calcule
+el efecto de carga en cada circuito.
+
+![image](https://user-images.githubusercontent.com/84587118/122504945-f2da5f00-cfc0-11eb-93e8-8693894d9b42.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122504954-f8d04000-cfc0-11eb-8a7f-8c179176d7db.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122504974-01c11180-cfc1-11eb-89af-126de14857a7.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122504993-0a194c80-cfc1-11eb-95c5-b3494b24113e.png)
+
+5-11 Análisis de circuitos por computadora
+37. Vea los circuitos de la figura 5-66. Utilice Multisim para encontrar lo siguiente:
+a. La corriente en cada circuito.
+b. El voltaje en cada resistor en el circuito.
+
+![image](https://user-images.githubusercontent.com/84587118/122505014-17ced200-cfc1-11eb-96a4-f5856f2054a5.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505022-1e5d4980-cfc1-11eb-9a52-5558b212c220.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505038-261cee00-cfc1-11eb-95f2-92279c1863a8.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505051-2b7a3880-cfc1-11eb-83ec-85f33e40ebd8.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505061-3208b000-cfc1-11eb-9a4a-5896988d4f37.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505070-37fe9100-cfc1-11eb-9e7d-fbaea6399271.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505082-3e8d0880-cfc1-11eb-9b74-016e776f13eb.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505097-451b8000-cfc1-11eb-8775-d896dfd90bd7.png)
+
+39. Vea el circuito de la figura 5-62. Use PSpice para encontrar lo siguiente:
+a. La corriente en el circuito.
+b. El voltaje en cada resistor en el circuito.
+
+![image](https://user-images.githubusercontent.com/84587118/122505108-4ea4e800-cfc1-11eb-9251-5de1b223451f.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505132-56fd2300-cfc1-11eb-9b09-916822fcf8f6.png)
+
+6-1 Circuitos en paralelo
+1. Indique cuales de los elementos en la figura 6-44 están conectados en paralelo
+y cuales en serie.
+
+![image](https://user-images.githubusercontent.com/84587118/122505155-62e8e500-cfc1-11eb-8ab2-6aff420cf69e.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505167-68dec600-cfc1-11eb-9099-e01bc71d128d.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505176-6c724d00-cfc1-11eb-9e49-39adbb787c88.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505186-74ca8800-cfc1-11eb-9dce-5457ce204dbb.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505198-798f3c00-cfc1-11eb-99dc-55a9cba12a05.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505217-8318a400-cfc1-11eb-84e1-3080a11e8320.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505227-857afe00-cfc1-11eb-905f-9ea8e3b73419.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505240-8d3aa280-cfc1-11eb-82ca-1c4ed1cd1e86.png)
+
+3. Sin cambiar las posiciones de los componentes, muestre al menos una forma
+de conectar en paralelo todos los elementos de la figura 6-46.
+
+![image](https://user-images.githubusercontent.com/84587118/122505259-962b7400-cfc1-11eb-8671-f8ffb32a29ed.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505268-9cb9eb80-cfc1-11eb-9d65-acc2a822cfe2.png)
+
+6-2 Ley de corriente de Kirchhoff
+5. Utilice la ley de corriente de Kirchhoff para determinar las magnitudes y direcciones
+de las corrientes que se indican en cada red que se muestra en la figura 6-8
+
+![image](https://user-images.githubusercontent.com/84587118/122505297-ae02f800-cfc1-11eb-941d-4cd3e6785093.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505315-b8bd8d00-cfc1-11eb-9210-962d5a6c8006.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/122505326-beb36e00-cfc1-11eb-9f63-26daef21185e.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/122505332-c4a94f00-cfc1-11eb-9b32-341f7ac7f10b.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505357-d12da780-cfc1-11eb-983e-2d2163165d2c.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505372-d5f25b80-cfc1-11eb-8360-a6c2ede45f3e.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505377-da1e7900-cfc1-11eb-9b5a-0f76d46fadf2.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/122505411-eefb0c80-cfc1-11eb-97e8-a630f29a6a1a.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505435-f7534780-cfc1-11eb-9f43-d3d73c6a1967.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505457-00dcaf80-cfc2-11eb-85b8-005dd71291dd.png)
+
+7. Considere la red de la figura 6-50.
+a. Calcule las corrientes I1, I2, I3 e I4.
+b. Determine el valor de la resistencia R3.
+
+![image](https://user-images.githubusercontent.com/84587118/122505489-118d2580-cfc2-11eb-92c7-9f45ae555f69.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505514-210c6e80-cfc2-11eb-9fe0-0e2415f1ca9e.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505526-27024f80-cfc2-11eb-9ecf-d62a6ca39152.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505535-2bc70380-cfc2-11eb-9338-226a194f33d8.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505551-308bb780-cfc2-11eb-87c3-0893395cfa4d.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505558-37b2c580-cfc2-11eb-8b0f-4114db315280.png)
+
+
+
+
 # Videos
 
 # Conclusiones
