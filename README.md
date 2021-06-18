@@ -134,7 +134,38 @@ b. Determine el valor de la resistencia R3.
 
 ![image](https://user-images.githubusercontent.com/84587118/122505558-37b2c580-cfc2-11eb-8b0f-4114db315280.png)
 
+9. Vea la red de la figura 6-52: 
 
+![image](https://user-images.githubusercontent.com/84587118/122505926-ee16aa80-cfc2-11eb-8ff3-3336a67fd795.png)
+
+a. Utilice la ley de corriente de Kirchhoff para calcular las corrientes desconocidas, I1, I2, I3 e I4. 
+
+![image](https://user-images.githubusercontent.com/84587118/122505953-f969d600-cfc2-11eb-808e-1f9aca5ed0d5.png)
+
+
+11. Calcule la conductancia total y resistencia total de cada red que se muestra en la figura 6-54
+
+![image](https://user-images.githubusercontent.com/84587118/122505965-01c21100-cfc3-11eb-8e84-c33a98f213d4.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122505992-0d153c80-cfc3-11eb-94df-219d03a9ae44.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122506000-130b1d80-cfc3-11eb-86a6-47615e573510.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122506011-1900fe80-cfc3-11eb-9b5a-b56016707ea0.png)
+
+13. Para las redes de la figura 6-56 determine el valor de la(s) resistencia(s) desconocidas para que resulte la resistencia total que se indica
+
+![image](https://user-images.githubusercontent.com/84587118/122506035-21f1d000-cfc3-11eb-8dee-f78e59aa2feb.png)
+
+![image](https://user-images.githubusercontent.com/84587118/122506059-2c13ce80-cfc3-11eb-8730-637f00436b34.png)
+
+15. Vea la red de la figura 6-58:
+
+![image](https://user-images.githubusercontent.com/84587118/122506077-333adc80-cfc3-11eb-8c7d-23ab44fbe6bd.png)
+
+ a. Calcule los valores de R1, R2 y R3 para que la resistencia total de la red sea de 200 Ω.
+ 
+ ![image](https://user-images.githubusercontent.com/84587118/122506132-49e13380-cfc3-11eb-8c75-71d3426ea63f.png)
 
 
 # Videos
