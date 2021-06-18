@@ -9,8 +9,13 @@
 # Objetivos Especificos: 
 
 # Marco Teorico
+# Capitulo 5
 
 ![image](https://user-images.githubusercontent.com/84412132/122506702-76e21600-cfc4-11eb-84c3-0ff72922fe34.png)
+
+# Capitulo 6 
+
+![image](https://user-images.githubusercontent.com/84587118/122572788-b2580100-d013-11eb-91ba-a659b625f34f.png)
 
 
 # Explicacion y resolucion de ejercicios
